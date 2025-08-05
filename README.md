@@ -9,6 +9,6 @@ Cybersecurity- Currently learning: Spring Boot, MongoDB, and GitHub Actions
 ![Static Badge](https://img.shields.io/badge/javaintermediateorangejavafor-the-badge?style=for-the-badge&logo=java&color=orange)
 ##  GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushikareddy1007&amp;show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikacsit&amp;layout=compact)
-##  Connect with Me- ✉️ Email: rushika@example.com-  LinkedIn: [Rushika]
-Profile(https://linkedin.com/in/rushika-example)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikareddy1007csit&amp;layout=compact)
+##  Connect with Me- ✉️ Email: rushikareddy1007@example.com-  LinkedIn: [Rushikareddy1007]
+Profile(https://linkedin.com/in/rushikareddy1007-example)
